@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TallerClases2</string>
+    <string name="registrar">Registrar</string>
+    <string name="marca">Marca</string>
+    <string name="so">Sistema Operativo</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="guardar">Guardar</string>
+    <string name="numero">N°</string>
+
+    <string name="crear">Registrar</string>
+    <string name="listar">Listar</string>
+
+    <string name="reporte1">Celular mas barato marca Huawei con S.O Android</string>
+    <string name="reporte2">Apple negros regristrados</string>
+    <string name="reporte3">Percio promedio Nokia</string>
+
+    <string name="prom">El promedio es</string>
+    <string name="negro">negro</string>
+    <string name="blanco">blanco</string>
+
+    <string name="done">Registro Creado Exitosamente!</string>
+
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+    </array>
+
+    <array name="Reportes">
+        <item>@string/reporte1</item>
+        <item>@string/reporte2</item>
+        <item>@string/reporte3</item>
+    </array>
+
+</resources>

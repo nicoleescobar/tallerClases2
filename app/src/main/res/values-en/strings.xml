@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerClases2</string>
+    <string name="blanco">white</string>
+    <string name="color">color</string>
+    <string name="crear">register</string>
+    <string name="done">Saved Successfully!</string>
+    <string name="guardar">Save</string>
+    <string name="listar">Show</string>
+    <string name="marca">Brand</string>
+    <string name="negro">Black</string>
+    <string name="numero">N°</string>
+    <string name="precio">Price</string>
+    <string name="prom">Average is</string>
+    <string name="registrar">Create</string>
+    <string name="reporte1">Cheaper Huawei Phone SO Android</string>
+    <string name="reporte2">Black Apples</string>
+    <string name="reporte3">Average Nokia Phones</string>
+    <string name="so">Operative System</string>
+</resources>
